@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 DaivAI — AI Chat Assistant
+# 🤖 DaivAI - AI Chat Assistant
 
 **A full-featured ChatGPT-like AI chat web app built with React, Tailwind CSS, and Zustand.**
 
