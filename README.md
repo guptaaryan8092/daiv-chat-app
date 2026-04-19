@@ -22,7 +22,7 @@
 
 ## 📸 Preview
 
-![DaivAI Chat App Preview](./preview.png)
+![DaivAI Chat App Preview](./Client/src/assets/preview.png)
 
 > _Two-panel layout: Collapsible sidebar with chat history on the left, full chat area on the right._
 
